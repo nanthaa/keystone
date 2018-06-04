@@ -1,0 +1,20 @@
+{
+  "name": "packing",
+  "version": "1.0.0",
+  "description": "Pug Demo Project",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "github:mysqljs/mysql",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "y"
+  ],
+  "author": "nanthaa",
+  "license": "ISC"
+}
